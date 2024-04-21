@@ -1,6 +1,6 @@
-# Instagram Crew
+# InstaGenie: AI-Powered Instagram Marketing Automation
 
-Welcome to the Instagram Crew project, powered by [crewAI](https://crewai.com). This template is designed to set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable AI agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+Welcome to the InstaGenie: AI-Powered Instagram Marketing Automation project, powered by [crewAI](https://crewai.com). This template is designed to set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable AI agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
 ## Installation
 
@@ -44,5 +44,5 @@ This example, unmodified, will run the create a `report.md` file with the output
 
 ## Understanding Your Crew
 
-The instagram Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
+InstaGenie is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
 
